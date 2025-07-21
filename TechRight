@@ -1,0 +1,103 @@
+tech writing
+Title:
+
+# Project Name
+Logo (if available):
+
+![Project Logo](path/to/logo.png)
+2. Project Description
+Provide a brief and informative overview of what your project does. Be clear and succinct.
+
+Example:
+
+## Project Name
+
+Project Name is a simple and powerful tool that does X. It is designed to be user-friendly and highly customizable.
+3. Table of Contents
+This makes it easier for users to navigate the document.
+
+Example:
+
+## Table of Contents
+
+- [Description](#description)
+- [Getting Started](#getting-started)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+4. Getting Started
+Brief instructions on how to set up the project for the first time.
+
+Example:
+
+## Getting Started
+
+To get started with Project Name, you'll need to do the following:
+
+1. Clone the repository: `git clone https://github.com/username/project-name.git`
+2. Navigate to the project directory: `cd project-name`
+3. Install dependencies: `pip install -r requirements.txt`
+5. Installation
+Detailed instructions on how to install the project.
+
+Example:
+
+## Installation
+
+1. Clone the repository: `git clone https://github.com/username/project-name.git`
+2. Install dependencies: `pip install -r requirements.txt`
+
+*Note: Ensure you have Python installed on your system.*
+6. Usage
+Show how to use the project with examples.
+
+Example:
+
+## Usage
+
+To use Project Name, simply run:
+
+```shell
+project-name
+This will display a list of available commands.
+
+
+### 7. **Contribution Guidelines**
+
+Instructions for contributing to the project.
+
+**Example**:
+```markdown
+## Contributing
+
+We welcome contributions! Here's how you can contribute:
+
+1. Fork this repository
+2. Create a new branch for your changes
+3. Commit your changes and push to your fork
+4. Open a pull request
+
+*Please make sure to follow our [code of conduct](CODE_OF_CONDUCT.md) and [style guide](STYLE_GUIDE.md).*
+8. License
+State the license under which the project is released.
+
+Example:
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+Additional Tips:
+Use Markdown: It's the standard for READMEs and has a simple syntax.
+Be Concise: Aim for clarity and avoid unnecessary jargon.
+Use Headers: Markdown headers (#, ##, ###, etc.) make the document easy to scan.
+Examples: Include code snippets or commands where applicable.
+Keep It Updated: Regularly update the README as the project evolves.
+Once you've written your README, save it as README.md and commit it to your repository. Remember, a good README can significantly increase the accessibility and adoption of your project.
+
+Reply to the model
+Always fact-check your results. OLMo is primarily designed to handle English queries.
+
+
+
+Curious about how this response
